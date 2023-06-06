@@ -1,0 +1,7 @@
+packages:
+- './app-local'
+- './app-remote'
+# - './game-client'
+# - './game-server'
+# - './runtime-game-client'
+# - './runtime-game-server'

@@ -1,0 +1,22 @@
+{
+  "references": [
+    {
+      "path": "app-local"
+    },
+    {
+      "path": "app-remote"
+    }
+    // {
+    //   "path": "game-client"
+    // },
+    // {
+    //   "path": "game-server"
+    // },
+    // {
+    //   "path": "runtime-game-client"
+    // },
+    // {
+    //   "path": "runtime-game-server"
+    // }
+  ]
+}
